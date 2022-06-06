@@ -203,9 +203,9 @@ El directorio está dividido en dos subdirectorios. Uno es el de código fuente,
     * [ ] Fundamentos de la terminal (Windows)
     * [ ] Git y Github
     * [ ] Fundamentos PHP
+    * [ ] Fundamentos de Bases de Datos
     * [ ] Proyecto práctico 2
 6. [ ] Parte 4
-    * [ ] Fundamentos de bases de datos *Quizá debería introducir esto en la parte 3, junto a PHP
     * [ ] Python
     * [ ] Django
     * [ ] Proyecto práctico 3
