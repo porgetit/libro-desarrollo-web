@@ -1,6 +1,6 @@
-PWD c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Libro\Contenido del Libro_ Borrador 1
+PWD c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Libro\codigo fuente\Contenido del Libro_ Borrador 1
 INPUT C:\Users\Kevin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Libro\Contenido del Libro_ Borrador 1\main.tex
+INPUT c:\Users\Kevin\Documents\Estudio\Personal\Investigación\Libro\codigo fuente\Contenido del Libro_ Borrador 1\main.tex
 OUTPUT main.log
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT D:\Users\Kevin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
