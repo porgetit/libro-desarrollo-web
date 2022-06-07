@@ -116,8 +116,10 @@ El directorio está dividido en dos subdirectorios. Uno es el de código fuente,
             * [ ] Flexbox
             * [ ] Grid
             * [ ] Responsive Web Design
-    * [ ] JavaScript
-        1. [ ] ¿Qué es JavaScript? ¿Porqué?
+   * [ ] Proyecto práctico 1
+5. [ ] Parte 3: La web interactiva
+    * [ ] Fundamentos de JavaScript
+        1. [ ] ¿Qué es JavaScript? ¿Porqué ES6?
         2. [ ] JavaScript
             * [ ] JS Where To
             * [ ] JS Output
@@ -198,16 +200,19 @@ El directorio está dividido en dos subdirectorios. Uno es el de código fuente,
                 * [ ] JS DOM Nodes
                 * [ ] JS DOM Collector
                 * [ ] JS DOM Node Lists
-    * [ ] Proyecto práctico 1
-5. [ ] Parte 3
+    * [ ] Proyecto práctico 2
+6. [ ] Parte 4: Las bases de datos
+    * [ ] ¿Qué es una base de datos?    
+    * [ ] Fundamentos de Bases de Datos    
+    * [ ] Fundamentos PHP
     * [ ] Fundamentos de la terminal (Windows)
     * [ ] Git y Github
-    * [ ] Fundamentos PHP
-    * [ ] Fundamentos de Bases de Datos
-    * [ ] Proyecto práctico 2
-6. [ ] Parte 4
-    * [ ] Python
-    * [ ] Django
     * [ ] Proyecto práctico 3
-7. [ ] Cierre del curso
+7. [ ] Parte 5: Los frameworks
+    * [ ] ¿Qué es un framework?
+    * [ ] Fundamentos de Python
+    * [ ] Fundamentos de Django
+    * [ ] Proyecto práctico 4
+8. [ ] Cierre del curso
 
+> *¿Será buena idea cambiar el nombre de partes por libros? 

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1654542779 "c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Libro/codigo fuente/Contenido del Libro_ Borrador 1/main.tex" "main.pdf" "main" 1654542780
+["pdflatex"] 1654636845 "c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Libro/codigo fuente/Contenido del Libro_ Borrador 1/main.tex" "main.pdf" "main" 1654636845
   "C:/Users/Kevin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1654290794 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Kevin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1654186343 14064 9ca3eda0a2a2e86adebe1a998a4d9f34 ""
   "C:/Users/Kevin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1654138433 10252454 99957f295da45a81a13b0f74f2eb450f ""
@@ -16,9 +16,9 @@
   "D:/Users/Kevin/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1638775084 5049 969aec05d5f39c43f8005910498fcf90 ""
   "D:/Users/Kevin/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1638775084 8449 bc7344e882df4d7e51c046514dee83e4 ""
   "D:/Users/Kevin/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1650429716 31067 89623bb5c412243bea4c601866f5e8c1 ""
-  "c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Libro/codigo fuente/Contenido del Libro_ Borrador 1/main.tex" 1654542779 7664 a112308cd82fb4bab7d5a1e6307f81e9 ""
-  "main.aux" 1654542780 32 4d1825978335c8847f72f7c473f9edc8 "pdflatex"
-  "main.tex" 1654542779 7664 a112308cd82fb4bab7d5a1e6307f81e9 ""
+  "c:/Users/Kevin/Documents/Estudio/Personal/Investigación/Libro/codigo fuente/Contenido del Libro_ Borrador 1/main.tex" 1654636844 7964 f01cddba421282b53592518ea6d0cf42 ""
+  "main.aux" 1654636845 32 4d1825978335c8847f72f7c473f9edc8 "pdflatex"
+  "main.tex" 1654636844 7964 f01cddba421282b53592518ea6d0cf42 ""
   (generated)
   "main.aux"
   "main.log"
