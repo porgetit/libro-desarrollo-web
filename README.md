@@ -20,11 +20,11 @@ El directorio está dividido en dos subdirectorios. Uno es el de código fuente,
 
 1. [x] Prefacio
 2. [x] Introducción
-3. [ ] Parte 1
+3. [ ] Parte 1: Antecedentes
     * [x] La historia del internet
     * [x] La evolución del desarrollo web
     * [ ] Previas y programas necesarios
-4. [ ] Parte 2
+4. [ ] Parte 2: El diseño web
     * [ ] Fundamentos de HTML5
         1. [ ] ¿Qué es HTML? ¿Porqué HTML5?
         2. [ ] Parte de un documento HTML.
