@@ -418,5 +418,4 @@ El directorio está dividido en dos subdirectorios. Uno es el de código fuente,
 ---
 
 ## Log
-> Martes 7 de junio del 2022: Se ha modificado la estructura del libro. Se terminó de añadir los contenidos de cada uno de los temas al
-borrador 1. Ahora podemos seguir con la redacción de la parte 1.
+> Martes 7 de junio del 2022: Se ha modificado la estructura del libro. Se terminó de añadir los contenidos de cada uno de los temas al borrador 1.
