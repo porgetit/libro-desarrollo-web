@@ -1,16 +1,17 @@
 # Curso práctico de desarrollo web para principiantes *Título temporal
 
+## Objetivo
+---
+
 Mi objetivo a la hora de escribir este libro es brindarle a las personas la posibilidad de aprender de forma complementaria los fundamentos del desarrollo web. Para esto, he desarrollado una serie de "partes" las cuales están divididas en capítulos y estos a su vez pueden estar divididos en apartados. Busco explicar de forma práctica tecnologías cómo: HTML, CSS, JS, PHP, BD, y Python con su framework Django.
 
 ---
 
 ## El repositorio está dividido de la siguiente manera
 
-El directorio está dividido en dos subdirectorios. Uno es el de código fuente, en este podrá encontrar todo lo relacionado a los archivos Latex, lenguaje en el cuál se está escribiendo el libro. El otro, pdfs generados, es una copia del anterior, la única diferencia es que solo conserva los pdf pertenecientes a cada carpeta. 
+Este repositorio está orientado a albergar el código fuente del libro, el cuál está siendo escrito en Latex. Para orientarse por el contenido del mismo se ha dispuesto una lista (ubicada en la parte inferior) en dónde cada uno de los elementos terminados (ahora estamos en la etapa del primer borrador) serán enlazados para que pueda acceder directamente al contenido del mismo, sin necesidad de buscar entre los archivos a los PDF compilados. 
 
-*Quiero desarrollar una herramienta para facilitar este proceso. 
-
-> Todos los archivos PDF llevan el nombre de "main.pdf", para identificarlos se debe remitir al nombre de la carpeta.
+> Todos los archivos PDF llevan el nombre de "main.pdf", para identificarlos se debe remitir al nombre brindado en la lista de avance o al título del mismo.
 
 ---
 
@@ -18,16 +19,18 @@ El directorio está dividido en dos subdirectorios. Uno es el de código fuente,
 
 ### Borrador 1
 
-* [x]  Prefacio
-* [x]  Introducción
+* [x]  [Prefacio](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Prefacio/main.pdf)
+* [x]  [Introducción](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Introducci%C3%B3n/main.pdf)
 * [ ]  Parte 1: Antecedentes
-    * [x]  La historia del internet
-    * [x]  La evolución del desarrollo web
-    * [ ]  Previas y programas necesarios (instalación) \newline*Solo se escribirá  una vez este el resto del curso completo
+    * [x]  [La historia del internet](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%201%20La%20Historia%20de%20Internet/main.pdf)
+    * [x]  [La evolución del desarrollo web](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%202%20La%20evoluci%C3%B3n%20de%20la%20web/main.pdf)
+    * [ ]  [Previas y programas necesarios (instalación)](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%203%20Instalaci%C3%B3n%20de%20programas%20necesarios/main.pdf)
+
+    *Solo se escribirá "Previas" una vez esté el resto del curso completo
 * [ ]  Parte 2: El diseño web
     * [ ]  Fundamentos de HTML5    
-        * [ ]  ¿Qué es HTML? y ¿Por qué HTML5?
-        * [ ]  Partes de un documento HTML
+        * [ ]  [¿Qué es HTML? y ¿Por qué HTML5?]()
+        * [ ]  [Partes de un documento HTML]()
         * [ ]  HTML        
             * [ ]  Elementos
             * [ ]  Atributos
