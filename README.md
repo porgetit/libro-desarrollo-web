@@ -19,18 +19,18 @@ Este repositorio está orientado a albergar el código fuente del libro, el cuá
 
 ### Borrador 1
 
-* [x]  [Prefacio](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Prefacio/main.pdf)
-* [x]  [Introducción](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Introducci%C3%B3n/main.pdf)
+* [x]  [Prefacio][]
+* [x]  [Introducción][]
 * [ ]  Parte 1: Antecedentes
-    * [x]  [La historia del internet](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%201%20La%20Historia%20de%20Internet/main.pdf)
-    * [x]  [La evolución del desarrollo web](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%202%20La%20evoluci%C3%B3n%20de%20la%20web/main.pdf)
-    * [ ]  [Previas y programas necesarios (instalación)](https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%203%20Instalaci%C3%B3n%20de%20programas%20necesarios/main.pdf)
+    * [x]  [La historia del internet][]
+    * [x]  [La evolución del desarrollo web][]
+    * [ ]  [Previas y programas necesarios (instalación)][]
 
     *Solo se escribirá "Previas" una vez esté el resto del curso completo
 * [ ]  Parte 2: El diseño web
     * [ ]  Fundamentos de HTML5    
-        * [ ]  [¿Qué es HTML? y ¿Por qué HTML5?]()
-        * [ ]  [Partes de un documento HTML]()
+        * [ ]  [¿Qué es HTML? y ¿Por qué HTML5?][]
+        * [ ]  [Partes de un documento HTML][]
         * [ ]  HTML        
             * [ ]  Elementos
             * [ ]  Atributos
@@ -422,3 +422,19 @@ Este repositorio está orientado a albergar el código fuente del libro, el cuá
 
 ## Log
 > Martes 7 de junio del 2022: Se ha modificado la estructura del libro. Se terminó de añadir los contenidos de cada uno de los temas al borrador 1.
+
+> Jueves 9 de junio del 2022: Se ha redactado el borrador 1 de: '¿Qué es HTML? y ¿Por qué HTML5?' y 'Partes de un documento HTML'. A demás, se ha modificado la estructura del repositorio con la finalidad de facilitar el proceso de creación de cada capítulo. También se agregó una funcionalidad al readme, ahora los documentos completados serán enlazados directamente con su PDF compilado, lo cuál facilitará en gran medida la navegación por el repositorio con fines de revisión de contenido.
+
+[Prefacio]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Prefacio/main.pdf
+
+[Introducción]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Introducci%C3%B3n/main.pdf
+
+[La historia del internet]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%201%20La%20Historia%20de%20Internet/main.pdf
+
+[La evolución del desarrollo web]:https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%202%20La%20evoluci%C3%B3n%20de%20la%20web/main.pdf
+
+[Previas y programas necesarios (instalación)]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%201/Capitulo%203%20Instalaci%C3%B3n%20de%20programas%20necesarios/main.pdf
+
+[¿Qué es HTML? y ¿Por qué HTML5?]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%202/Cap%C3%ADtulo%204/Apartado%20a/main.pdf
+
+[Partes de un documento HTML]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Parte%202/Cap%C3%ADtulo%204/Apartado%20b/main.pdf
