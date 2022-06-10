@@ -13,6 +13,8 @@ Este repositorio está orientado a albergar el código fuente del libro, el cuá
 
 > Todos los archivos PDF llevan el nombre de "main.pdf", para identificarlos se debe remitir al nombre brindado en la lista de avance o al título del mismo.
 
+> Recuerde: Hay una sección de [historial][] de cambios al finalizar el documento, para que pueda revizar la forma en la que se han dado los avances y cambios dentro del repositorio.
+
 ---
 
 ## A continuación muestro el progreso del desarrollo del libro
@@ -420,10 +422,14 @@ Este repositorio está orientado a albergar el código fuente del libro, el cuá
 
 ---
 
-## Log
+## Historial
 > Martes 7 de junio del 2022: Se ha modificado la estructura del libro. Se terminó de añadir los contenidos de cada uno de los temas al borrador 1.
 
 > Jueves 9 de junio del 2022: Se ha redactado el borrador 1 de: '¿Qué es HTML? y ¿Por qué HTML5?' y 'Partes de un documento HTML'. A demás, se ha modificado la estructura del repositorio con la finalidad de facilitar el proceso de creación de cada capítulo. También se agregó una funcionalidad al readme, ahora los documentos completados serán enlazados directamente con su PDF compilado, lo cuál facilitará en gran medida la navegación por el repositorio con fines de revisión de contenido.
+
+<!-- enlaces -->
+
+[historial]: https://github.com/porgetit/libro-desarrollo-web
 
 [Prefacio]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Prefacio/main.pdf
 
