@@ -429,7 +429,7 @@ Este repositorio está orientado a albergar el código fuente del libro, el cuá
 
 <!-- enlaces -->
 
-[historial]: https://github.com/porgetit/libro-desarrollo-web
+[historial]: https://github.com/porgetit/libro-desarrollo-web#historial
 
 [Prefacio]: https://github.com/porgetit/libro-desarrollo-web/blob/main/codigo%20fuente/Prefacio/main.pdf
 
